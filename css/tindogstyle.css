@@ -1,0 +1,140 @@
+.text{
+  color: white;
+}
+
+.text1
+{
+ color: white;
+}
+.partTwo
+{
+  height: 560px;
+  background-color: #602080;
+}
+.text2
+{
+  padding: 15% 7%;
+  font-size: 50px;
+  color: white;
+  transform-style: preserve-3d;
+}
+.text3
+{
+
+  color: blue;
+  font-size: 30px;
+  transform-style: preserve-3d;
+}
+.text4
+{
+  color: white;
+  font-size: 30px;
+  transform: scale3d();
+}
+.btnstyle1
+{
+  position: relative;
+  left: 25px;
+}
+.btnstyle2
+{
+  position: relative;
+  left: 35px;
+}
+.img1
+{
+  background-color: #602080;
+  position: relative;
+  left: 15px;
+  width: 500px;
+  height: 560px;
+
+}
+
+#features
+{
+  padding: 7% 15%;
+}
+.feature-box
+{
+  padding: 3% 5%;
+  text-align: center;
+}
+.text5
+{
+   color: grey;
+}
+.feature-box-heading
+{
+
+}
+.fas{
+  color: blue;
+  margin-bottom: 1rem;
+}
+#carousel
+{
+  background-color: #602080;
+  text-align: center;
+  padding: 5% 7%;
+}
+.row-custom
+{
+  padding: 2% 5%;
+  color: white;
+}
+.fas-red
+{
+  color: red;
+  margin: 1rem;
+}
+.fas-blue
+{
+  color: blue;
+  margin: 1rem;
+}
+.fas-black
+{
+  color: black;
+  margin: 1rem;
+}
+#pricing
+{
+  padding: 7% 15%;
+
+  text-align: center;
+}
+.card
+{
+    margin: 5% 7%;
+}
+.red{
+  color: red;
+}
+.blue
+{
+  color: blue;
+}
+.black
+{
+  color: black;
+}
+#social-footer
+{
+  padding: 4% 15%;
+
+  background-color: #602080;
+  text-align: center;
+}
+.footer
+{
+  margin: 3%;
+}
+.fab
+{
+  color: white;
+  margin: 3%;
+}
+.last-text{
+  color: grey;
+}
